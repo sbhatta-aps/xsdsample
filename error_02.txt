@@ -1,0 +1,6 @@
+Message replacement failed due to invalid WSDL/XSD/EDMX/JSON;
+Cannot import file 'newsample.xsd';
+XSD: Attribute reference 'http://www.w3.org/XML/1998/namespace#lang' is unresolved
+XSD: Attribute reference 'http://www.w3.org/XML/1998/namespace#lang' is unresolved
+XSD: Type reference 'http://uri.etsi.org/01903/v1.3.2##Include' is unresolved
+XSD: Type reference 'http://uri.etsi.org/01903/v1.3.2##ReferenceInfo' is unresolved
